@@ -1,6 +1,6 @@
 # Chat Grupowy
 
-# Autorzy: Hubert Gąsior, Konrad J, Eryk W
+Autorzy: Hubert Gąsior, Konrad J, Eryk W
 
 ## Spis treści
 1. [Wstęp](#wstęp)
